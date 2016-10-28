@@ -1,5 +1,5 @@
 # Timber
-Tree cut game written in C with ncurses, inspired by "TreeDude" mini-game from "SuperHot".
+Tree cut game written in C with ncurses, inspired by "TreeDude" mini-game from "SuperHot". Game written in one afternoon.
 
 ## Dependencies
 
