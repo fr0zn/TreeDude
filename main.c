@@ -5,6 +5,7 @@
 #include <stdlib.h>
 #include <sys/time.h>
 #include <math.h>
+#include <time.h>
 
 #define NUM_TRUNKS 5
 #define PROB_LEAF 15
